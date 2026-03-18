@@ -1,0 +1,17 @@
+# ──────────────────────────────────────────────────────────────
+#  Real-Time Social Media Mood Analyzer — Python Requirements
+# ──────────────────────────────────────────────────────────────
+
+# NLP & Machine Learning
+scikit-learn>=1.3.0
+nltk>=3.8.1
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Flask backend
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
